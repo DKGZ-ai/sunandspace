@@ -1,0 +1,21 @@
+# Local config (copy from *.example.php — never commit secrets)
+sunandspace_data/config/database.php
+sunandspace_data/config/google-oauth.php
+sunandspace_data/config/payment.php
+sunandspace_data/config/jt-shipping.php
+
+# User uploads and cache (live data stays on the server)
+sunandspace_data/uploads/products/*
+!sunandspace_data/uploads/products/.gitkeep
+sunandspace_data/uploads/receipts/*
+!sunandspace_data/uploads/receipts/.gitkeep
+sunandspace_data/uploads/site/*
+!sunandspace_data/uploads/site/.gitkeep
+sunandspace_data/cache/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/

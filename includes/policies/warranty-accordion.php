@@ -1,0 +1,2 @@
+<p>Our product warranty covers <strong>factory defects</strong> and items that are <strong>not working or defective</strong> at the time of delivery. Proof of the defect is required &mdash; such as photos, video, or a demonstration that the product fails to operate as intended.</p>
+<p>The warranty <strong>does not cover</strong> damage caused by the customer, including drops, falls, mishandling, liquid exposure, or any issue that occurs after delivery due to misuse or accidents.</p>

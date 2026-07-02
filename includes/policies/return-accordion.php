@@ -1,0 +1,2 @@
+<p>We offer a <strong><?= ss_escape(ss_return_window_label()) ?></strong> return window for eligible items. If you return a product in its original, unused condition within <?= ss_escape(ss_return_window_label()) ?> of delivery, we will process a refund after the item passes inspection at our warehouse.</p>
+<p><a href="return-refund-policy.php">See the <strong>Return &amp; Refund Policy</strong></a> for full details on eligibility, exchanges, and refund timing.</p>
